@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ida Plugin Template", "Ida Plugin Template.vcxproj", "{23F16DF1-3D2E-4275-95E0-4597096C7F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug64|x64 = Debug64|x64
+		Release|x64 = Release|x64
+		Release64|x64 = Release64|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23F16DF1-3D2E-4275-95E0-4597096C7F84}.Debug|x64.ActiveCfg = Debug|x64
+		{23F16DF1-3D2E-4275-95E0-4597096C7F84}.Debug|x64.Build.0 = Debug|x64
+		{23F16DF1-3D2E-4275-95E0-4597096C7F84}.Debug64|x64.ActiveCfg = Debug64|x64
+		{23F16DF1-3D2E-4275-95E0-4597096C7F84}.Debug64|x64.Build.0 = Debug64|x64
+		{23F16DF1-3D2E-4275-95E0-4597096C7F84}.Release|x64.ActiveCfg = Release|x64
+		{23F16DF1-3D2E-4275-95E0-4597096C7F84}.Release|x64.Build.0 = Release|x64
+		{23F16DF1-3D2E-4275-95E0-4597096C7F84}.Release64|x64.ActiveCfg = Release64|x64
+		{23F16DF1-3D2E-4275-95E0-4597096C7F84}.Release64|x64.Build.0 = Release64|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
