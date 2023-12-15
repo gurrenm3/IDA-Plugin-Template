@@ -33,7 +33,7 @@ __declspec(dllexport) plugin_t PLUGIN = {
     run,                // Main function
     "Description",
     "Help",
-    "Plugin Template",
+    "Wanted_Name",
     "Wanted_Hotkey" // Example: "Ctrl-Alt-S"
 };
 
