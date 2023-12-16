@@ -10,5 +10,5 @@ Tested with Visual Studio 2022 and Rider on Windows 11. Only dependency being th
 To build the project you'll need to create a new environment variable and call it _IDADIR. It should point to the folder where the IDA SDK is located, and expects to find a "idasdk/include" and "idasdk/lib" folder there.
 
 Example: 
-If you had your "idasdk" folder located at "C:\PathToMyIdaFolder", your new environment variable should be:
+If you had your "idasdk" folder located at "C:\PathToMyIdaFolder\idasdk", your new environment variable should be:
 _IDADIR = "C:\PathToMyIdaFolder"
